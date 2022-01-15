@@ -1,4 +1,4 @@
-# <p align='center'> **UJIAN AKHIR SEMESTER 1**
+# <p align='center'> :computer:**UJIAN AKHIR SEMESTER 1**:computer:
 
 ## **Perintah :**
 
@@ -40,4 +40,4 @@ Buatlah package dan modul dengan struktur seperti berikut:
 
 ![.](ss/Break.png)
 
-# <p align='center'> **TERIMAKASIH**
+# <p align='center'> :pray: **TERIMAKASIH** :pray:
